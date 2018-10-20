@@ -3,7 +3,7 @@ package graph_test
 import (
 	"testing"
 
-	graph "github.com/apoydence/graph-tests"
+	graph "github.com/poy/graph-tests"
 )
 
 func TestGraph(t *testing.T) {
